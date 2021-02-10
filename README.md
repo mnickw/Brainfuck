@@ -1,5 +1,4 @@
-﻿﻿
-# ﻿Практики «Виртуальная машина Brainfuck», «Простые команды Brainfuck» и «Циклы Brainfuck»
+# Практики «Виртуальная машина Brainfuck», «Простые команды Brainfuck» и «Циклы Brainfuck»
 Репозиторий содержит решения [этой](https://ulearn.me/course/basicprogramming2/Praktika_Virtual_naya_mashina_Brainfuck__6616377b-e3f9-43f7-9fb8-a9d6c921f1ef), [этой](https://ulearn.me/course/basicprogramming2/Praktika_Prostye_komandy_Brainfuck__5eb14a3a-d030-4ca0-8f39-79daa0ba48ec) и [этой](https://ulearn.me/course/basicprogramming2/Praktika_Tsikly_Brainfuck__32596182-f915-402b-8b64-df3b63198691) задачи с ulearn.me.
 Задачи прошли код-ревью у преподавателя (баллы: 50/50, 100/100, 50/50). Все решения курса на максимальный балл также выложены в других репозиториях.
 Ветка unsolved содержит изначальный проект.
